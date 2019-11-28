@@ -6,7 +6,7 @@
 
 REPO="Microsoft/artifacts-credprovider"
 FILE="Microsoft.NuGet.CredentialProvider.tar.gz"
-VERSION="latest"
+VERSION="v0.1.20"
 # URL pattern documented at https://help.github.com/en/articles/linking-to-releases as of 2019-03-29
 URI="https://github.com/$REPO/releases/$VERSION/download/$FILE"
 NUGET_PLUGIN_DIR="$HOME/.nuget/plugins"
